@@ -22,7 +22,13 @@ namespace variant9
         }
         public static void Task2()
         {
-            Console.WriteLine("Task2");
+            string text = ".25 0.24";
+            Regex reg = new Regex(@"(\d{0,}?\.\d{0,})");
+            MatchCollection matches = reg.Matches(text);
+            foreach(Match m in matches)
+            {
+                Console.WriteLine(m.Groups[1].Value);
+            }   
         }
         static void Main(string[] args)
         {
