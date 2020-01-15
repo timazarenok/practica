@@ -1,0 +1,7 @@
+C:\Users\tima\source\repos\ebuchayapraktica\variant6\variant6\bin\Debug\variant6.exe.config
+C:\Users\tima\source\repos\ebuchayapraktica\variant6\variant6\bin\Debug\variant6.exe
+C:\Users\tima\source\repos\ebuchayapraktica\variant6\variant6\bin\Debug\variant6.pdb
+C:\Users\tima\source\repos\ebuchayapraktica\variant6\variant6\obj\Debug\variant6.csprojAssemblyReference.cache
+C:\Users\tima\source\repos\ebuchayapraktica\variant6\variant6\obj\Debug\variant6.csproj.CoreCompileInputs.cache
+C:\Users\tima\source\repos\ebuchayapraktica\variant6\variant6\obj\Debug\variant6.exe
+C:\Users\tima\source\repos\ebuchayapraktica\variant6\variant6\obj\Debug\variant6.pdb

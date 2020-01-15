@@ -1,0 +1,6 @@
+C:\Users\tima\source\repos\ebuchayapraktica\variant9\variant9\bin\Debug\variant9.exe.config
+C:\Users\tima\source\repos\ebuchayapraktica\variant9\variant9\bin\Debug\variant9.exe
+C:\Users\tima\source\repos\ebuchayapraktica\variant9\variant9\bin\Debug\variant9.pdb
+C:\Users\tima\source\repos\ebuchayapraktica\variant9\variant9\obj\Debug\variant9.csproj.CoreCompileInputs.cache
+C:\Users\tima\source\repos\ebuchayapraktica\variant9\variant9\obj\Debug\variant9.exe
+C:\Users\tima\source\repos\ebuchayapraktica\variant9\variant9\obj\Debug\variant9.pdb
